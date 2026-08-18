@@ -1,5 +1,9 @@
 # 🚀 Top Interview Questions & Preparation Hub
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
 Welcome to the **interview_ques** repository! This collection is dedicated to high-quality technical interview questions and detailed answers, starting with Git and expanding into a comprehensive multi-topic engineering preparation guide.
 
 ---
