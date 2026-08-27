@@ -1,6 +1,6 @@
 # 🚀 Top Interview Questions & Preparation Hub
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
