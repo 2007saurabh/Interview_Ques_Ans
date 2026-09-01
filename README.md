@@ -16,6 +16,7 @@ Welcome to the **interview_ques** repository! This collection is dedicated to hi
 | [`git_interview_answers.pdf`](https://github.com/2007saurabh/interview_ques/blob/main/git_interview_answers.pdf) | Comprehensive answer keys and explanations for Git. |
 | [` html_interview_ques.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/html_interview_qa.pdf) | HTML Interview Ques & Ans. |
 | [` CSS_interview_ques.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/css_interview_qa.pdf) | CSS Interview Ques & Ans. |
+| [` JavaScript_interview_ques.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/javascript_interview_qa.pdf) | JavaScript Interview Ques & Ans. |
 
 ---
 
