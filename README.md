@@ -22,6 +22,9 @@ Welcome to the **interview_ques** repository! This collection is dedicated to hi
 | [` Java interview_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/java_interview_qa.pdf) | Java Interview Question. |
 | [` Collection interview_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/collections_framework_qa.pdf) | Collection Interview Question. |
 | [` Backend interview_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/backend_interview_essentials.pdf) | Backend Interview Question. |
+| [` DB & Architecture_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/db_architecture_placement_qa.pdf) | DB & Architecture Inteview questions. |
+| [` DB & Architecture_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/db_architecture_placement_qa.pdf) | DB & Architecture Inteview questions. |
+| [` Java Multithreading _questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/Java_Multithreading_Interview_QA.pdf) | Java Multithreading Inteview questions. |
 
 ---
 
