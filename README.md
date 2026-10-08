@@ -25,7 +25,7 @@ Welcome to the **interview_ques** repository! This collection is dedicated to hi
 | [` DB & Architecture_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/db_architecture_placement_qa.pdf) | DB & Architecture Inteview questions. |
 | [` DB & Architecture_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/db_architecture_placement_qa.pdf) | DB & Architecture Inteview questions. |
 | [` Java Multithreading _questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/Java_Multithreading_Interview_QA.pdf) | Java Multithreading Inteview questions. |
-| [` System Design_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/system_design_interview_qa.pdf.pdf) |System Design Inteview questions. |
+| [` System Design_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/system_design_interview_qa.pdf) |System Design Inteview questions. |
 
 ---
 
