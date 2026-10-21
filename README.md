@@ -47,6 +47,7 @@ As this repository expands, new question banks and guides will be added covering
 ### ⚙️ Core Engineering & System Design
 * 🗄️ **Databases & Architecture:** SQL vs NoSQL, indexing, caching strategies, and system design patterns.
 * 🧠 **Data Structures & Algorithms (DSA):** Commonly asked coding interview questions with optimal solutions.
+*   **System design:** **Cloud computing** **ML**
 
 ---
 
