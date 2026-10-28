@@ -28,6 +28,7 @@ Welcome to the **interview_ques** repository! This collection is dedicated to hi
 | [` System Design_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/system_design_interview_qa.pdf) |System Design Inteview questions. |
 | [` Node js_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/nodejs_interview_questions.pdf) |Node Js Inteview questions. |
 | [` javascript_event_loop_notes.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/javascript_event_loop_notes.pdf) |Javascript Event loop  questions. |
+| [` GraphQL Interview Questions & Answers.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/GraphQL Interview Questions & Answers.pdf) |GraphQL Interview Questions & Answers |
 
 ---
 
