@@ -1,57 +1,71 @@
 # 🚀 Top Interview Questions & Preparation Hub
 
-
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-Welcome to the **interview_ques** repository! This collection is dedicated to high-quality technical interview questions and detailed answers, starting with Git and expanding into a comprehensive multi-topic engineering preparation guide.
+Welcome to the **Interview Questions & Answers** repository! This collection is designed to help you prepare for technical interviews with curated PDF resources covering core CS concepts, frontend, backend, Java, databases, system design, and modern web technologies.
 
 ---
 
-## 📂 Repository Structure
+## 📚 Repository Categories
 
-| File | Description |
+### 1) Git & Core Computer Science
+
+| Resource | Focus Area |
 | :--- | :--- |
-| [`git_interview_questions.pdf`](https://github.com/2007saurabh/interview_ques/blob/main/git_interview_questions.pdf) | A curated list of 20 essential Git interview questions. |
-| [`git_interview_answers.pdf`](https://github.com/2007saurabh/interview_ques/blob/main/git_interview_answers.pdf) | Comprehensive answer keys and explanations for Git. |
-| [` html_interview_ques.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/html_interview_qa.pdf) | HTML Interview Ques & Ans. |
-| [` CSS_interview_ques.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/css_interview_qa.pdf) | CSS Interview Ques & Ans. |
-| [` JavaScript_interview_ques.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/javascript_interview_qa.pdf) | JavaScript Interview Ques & Ans. |
-| [` frontend_interview_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/frontend_interview_questions.pdf) | Frontend Interview Question. |
-| [` JS snippetinterview_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/js_code_snippet_qa.pdf) | JS Snippet Interview Question. |
-| [` Java interview_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/java_interview_qa.pdf) | Java Interview Question. |
-| [` Collection interview_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/collections_framework_qa.pdf) | Collection Interview Question. |
-| [` Backend interview_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/backend_interview_essentials.pdf) | Backend Interview Question. |
-| [` DB & Architecture_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/db_architecture_placement_qa.pdf) | DB & Architecture Inteview questions. |
-| [` DB & Architecture_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/db_architecture_placement_qa.pdf) | DB & Architecture Inteview questions. |
-| [` Java Multithreading _questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/Java_Multithreading_Interview_QA.pdf) | Java Multithreading Inteview questions. |
-| [` System Design_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/system_design_interview_qa.pdf) |System Design Inteview questions. |
-| [` Node js_questions.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/nodejs_interview_questions.pdf) |Node Js Inteview questions. |
-| [` javascript_event_loop_notes.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/javascript_event_loop_notes.pdf) |Javascript Event loop  questions. |
-| [` GraphQL Interview Questions & Answers.pdf `](https://github.com/2007saurabh/interview_ques/blob/main/GraphQL Interview Questions & Answers.pdf) |GraphQL Interview Questions & Answers |
+| [Git Interview Questions](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/git_interview_questions.pdf) | Git fundamentals and commonly asked interview questions |
+| [Git Interview Answers](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/git_interview_answers.pdf) | Detailed answers and explanations for Git |
+| [Java Interview Questions & Answers](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/java_interview_qa.pdf) | Java basics, OOP, and core interview concepts |
+| [Collections Framework Questions & Answers](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/collections_framework_qa.pdf) | Java collections, maps, sets, and list internals |
+| [Java Multithreading Questions & Answers](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/Java_Multithreading_Interview_QA.pdf) | Threads, synchronization, locks, and concurrency |
+
+### 2) Frontend Development
+
+| Resource | Focus Area |
+| :--- | :--- |
+| [HTML Interview Questions & Answers](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/html_interview_qa.pdf) | HTML concepts and interview Q&A |
+| [CSS Interview Questions & Answers](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/css_interview_qa.pdf) | Styling, layout, selectors, responsiveness |
+| [JavaScript Interview Questions & Answers](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/javascript_interview_qa.pdf) | JS fundamentals and interview prep |
+| [JS Snippet Interview Questions](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/js_code_snippet_qa.pdf) | Code-based JS interview questions |
+| [JavaScript Event Loop Notes](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/javascript_event_loop_notes.pdf) | Event loop, async behavior, and execution model |
+| [Frontend Interview Questions](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/frontend_interview_questions.pdf) | Frontend-focused interview questions |
+
+### 3) Backend & API Development
+
+| Resource | Focus Area |
+| :--- | :--- |
+| [Backend Interview Essentials](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/backend_interview_essentials.pdf) | Core backend interview preparation |
+| [Node.js Interview Questions](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/nodejs_interview_questions.pdf) | Node.js essentials and interview pattern |
+| [GraphQL Interview Questions & Answers](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/GraphQL%20Interview%20Questions%20%26%20Answers.pdf) | GraphQL concepts, schema, queries, and mutations |
+
+### 4) Databases, Architecture & System Design
+
+| Resource | Focus Area |
+| :--- | :--- |
+| [DB & Architecture Questions](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/db_architecture_placement_qa.pdf) | Databases, architecture, and placement prep |
+| [System Design Interview Questions](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/system_design_interview_qa.pdf) | Scalable systems and interview questions |
+
+### 5) AI / ML / Advanced Practice
+
+| Resource | Focus Area |
+| :--- | :--- |
+| [Machine Learning Sample Practice Set B](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/Machine%20Learning%20Sample%20Practice%20Set%20B%20-%20Comprehensive%20Exam%20Solutions.pdf) | ML practice questions and solutions |
 
 ---
 
-## 🗺️ Future Roadmap & Upcoming Topics
+## 🗺️ Learning Roadmap
 
-As this repository expands, new question banks and guides will be added covering a wide spectrum of software engineering topics:
+This repository is useful for students and professionals preparing for:
 
-### 💻 Programming Languages
-* 🐍 **Python:** Core concepts, OOP, decorators, generators, and coding challenges.
-* ☕ **Java:** Multithreading, collections framework, JVM architecture, and design patterns.
-* 🟨 **JavaScript / TypeScript:** Closures, asynchronous programming, event loop, and advanced TS types.
-
-### 🌐 Web Development
-* 🎨 **Frontend:** React, Next.js, state management, CSS architectures, and performance optimization.
-* ⚙️ **Backend:** Node.js, Express, RESTful APIs, GraphQL, and microservices architecture.
-
-### ⚙️ Core Engineering & System Design
-* 🗄️ **Databases & Architecture:** SQL vs NoSQL, indexing, caching strategies, and system design patterns.
-* 🧠 **Data Structures & Algorithms (DSA):** Commonly asked coding interview questions with optimal solutions.
-*   **System design:** **Cloud computing** **ML**
+- Core Java and DSA interviews
+- Frontend and JavaScript interview rounds
+- Backend and Node.js interview rounds
+- Database and system design interviews
+- Modern API and GraphQL discussions
+- ML and advanced practice sets
 
 ---
 
 ## ⭐ Support & Contributions
 
-Stay tuned for regular updates! If you find this repository helpful, please consider giving it a star ⭐ to keep track of new additions. Contributions and suggestions are always welcome!
+Stay tuned for more updates and new question banks. If you find this repository helpful, please consider giving it a star ⭐. Contributions, suggestions, and new PDF additions are always welcome.
