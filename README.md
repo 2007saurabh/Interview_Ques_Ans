@@ -70,6 +70,7 @@ A premium collection of interview-focused study material for developers preparin
 | :--- | :--- |
 | [DB & Architecture Questions](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/db_architecture_placement_qa.pdf) | Database fundamentals, architecture, and placement-focused questions |
 | [System Design Interview Questions](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/system_design_interview_qa.pdf) | Scalability, distributed systems, APIs, networking, and design trade-offs |
+| [System Design Interview Questions](https://github.com/2007saurabh/Interview_Ques_Ans/blob/main/system_design_interview_qa (1).pdf) | Scalability, distributed systems, APIs, networking, and design trade-offs |
 
 ---
 
